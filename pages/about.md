@@ -17,6 +17,3 @@ credits: true
 We want to make engaging interpretive pages easier to create, so Ladapo Collections gives you tools to write with your collection content!
 
 Each “include” file has several options, which are documented in the files themselves
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
